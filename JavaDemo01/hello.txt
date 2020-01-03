@@ -1,7 +1,5 @@
 大家好，我来了
 我也修改一下
-<<<<<<< HEAD
 冲突
-=======
 形态
->>>>>>> branch 'master' of git@github.com:luoshuqiang01/stu.git
+
